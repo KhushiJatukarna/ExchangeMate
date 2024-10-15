@@ -9,6 +9,12 @@ ExchangeMate is a simple and intuitive currency converter web application that a
 - **Currency Flags**: Displays country flags for selected currencies.
 - **Input Validation**: Ensures valid input for amounts.
 
+## Usage
+- Enter the amount you wish to convert.
+- Select the currency you want to convert from (default is USD).
+- Select the currency you want to convert to (default is INR).
+- Click on the "Get Exchange Rate" button to see the converted amount.  
+
 ## Technologies Used
 
 - HTML
