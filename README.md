@@ -10,10 +10,10 @@ ExchangeMate is a simple and intuitive currency converter web application that a
 - **Input Validation**: Ensures valid input for amounts.
 
 ## Usage
-- Enter the amount you wish to convert.
-- Select the currency you want to convert from (default is USD).
-- Select the currency you want to convert to (default is INR).
-- Click on the "Get Exchange Rate" button to see the converted amount.  
+1. Enter the amount you wish to convert.
+2. Select the currency you want to convert from (default is USD).
+3. Select the currency you want to convert to (default is INR).
+4. Click on the "Get Exchange Rate" button to see the converted amount.  
 
 ## Technologies Used
 
