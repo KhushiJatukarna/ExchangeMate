@@ -2,6 +2,8 @@
 
 ExchangeMate is a simple and intuitive currency converter web application that allows users to convert amounts between different currencies. It provides real-time exchange rates and updates currency flags based on user selection.
 
+---
+
 ## Features
 
 - **Real-time Exchange Rates**: Fetches current exchange rates using an external currency API.
@@ -9,11 +11,15 @@ ExchangeMate is a simple and intuitive currency converter web application that a
 - **Currency Flags**: Displays country flags for selected currencies.
 - **Input Validation**: Ensures valid input for amounts.
 
-## Usage
+---
+
+## How to use
 1. Enter the amount you wish to convert.
 2. Select the currency you want to convert from (default is USD).
 3. Select the currency you want to convert to (default is INR).
 4. Click on the "Get Exchange Rate" button to see the converted amount.  
+
+---
 
 ## Technologies Used
 
